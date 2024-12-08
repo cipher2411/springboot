@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: DEMO-SERVICE
+  data:
+    mongodb:
+      #uri: mongodb+srv://user2:admin123@kdcluster.0rjopji.mongodb.net/?retryWrites=true&w=majority&appName=KDCLuster
+      uri: mongodb+srv://cipher2411:APx6qdrOHYUzyYVS@cluster0.iz6bg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: demo
+      auto-index-creation: true
